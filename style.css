@@ -1,0 +1,94 @@
+.overlay-sp-parent {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 9999;
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    display: none;
+}
+.overlay-sp-parent .overlay-sp-inner-content {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    max-height: 90%;
+    background-color: #fff;
+    z-index: 9999;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    overflow: auto;
+    top: 5%;
+    /* transform: translateY(-50%); */
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+/* announcements sub container start */
+#announcements-container {
+    display: none;
+}
+.sub-content-container {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 50%;
+	background-color: #ffffff;
+	/* z-index: 999999; */
+	min-height: 100px;
+	padding-bottom: 20px;
+}
+
+.sub-content-container .close-black {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	cursor: pointer;
+}
+
+.sub-content-container-inner {
+	padding: 20px;
+}
+
+.sub-content-container .view-all {
+	color: #f27b27;
+	text-decoration: underline;
+	font-family: LeasePlanBold, Arial, Helvetica, sans-serif;
+}
+
+.announcements .carousel {
+	height: 100%;
+}
+
+.announcements .carousel .carousel-control-prev,
+.announcements .carousel .carousel-control-next {
+	opacity: 1;
+	width: auto;
+	right: 0;
+	bottom: 0;
+	top: unset;
+	left: unset;
+}
+
+.announcements .carousel .carousel-control-prev {
+	right: 30px;
+}
+
+.announcements .carousel .carousel-control-next-icon {
+	background-image: url(arrows-circle-right.svg);
+	color: #f06400;
+	height: 20px;
+	width: 20px;
+}
+
+.announcements .carousel .carousel-control-prev-icon {
+	background-image: url(arrows-circle-left.svg);
+	color: #f06400;
+	height: 20px;
+	width: 20px;
+}

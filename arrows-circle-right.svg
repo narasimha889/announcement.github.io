@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>arrows-circle-right-svg</title>
+	<defs>
+		<image  width="28" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAAXNSR0IB2cksfwAAAEVQTFRFAAAA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQA8GQAAlwQjwAAABd0Uk5TAECPv9//P2BfMM/gkCDvoBCw0MCf8K/I3RRkAAAA0klEQVR4nH2SSRaDMAxDbYigxmEKhfsftQ6UMiRFi2z+syP5iWgXF6UDXFlUdFdtYJd7XZA0gHpuiVr2CjRyMO6g9WmLouMfA/rhvGgYgS+VDv3dQo9u2xxSRjSiWX+ADikcFNHF9qbZ4KIbzbE4JOTh8zCCCZyHjMmm2zwU8wvkGUXyCB/WhmdDj1E4XiKneIT/59P1dbnDu20m4J3C0byunueU9pjb3TSWa00WHAF5vtTRajqfwkuwthaVeZeqsAYHOS+KdfxJ02ziJ5sPkz+mPkOCB4j0z9d3AAAAAElFTkSuQmCC"/>
+		<image  width="7" height="12" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAMBAMAAABcu7ojAAAAAXNSR0IB2cksfwAAAA9QTFRF8GQA8GQA8GQAAAAA8GQAQCZ2rgAAAAV0Uk5T0M8QAP9UlMtFAAAAPElEQVR4nA3LQQ0AIAzF0EImgBAEjGBg2QyAf1P8S0+vtFOBTcXfCdJmUP6cShvKgtrXydWDfUWsC6PtA8gJBqIYw7VUAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer" href="#img1" x="2" y="2"/>
+	<use id="Layer" href="#img2" x="13" y="10"/>
+</svg>
